@@ -1,0 +1,25 @@
+.allowance-card{
+background-color: #ffedbd;
+}
+
+.usage-card{
+background-color: #ebebed;
+}
+
+.allowance-used{
+    background-color:#fa493c;
+}
+
+.fullHeight{
+   min-height: 100vh;
+}
+
+.box{   
+    box-shadow: 1px 1px 20px 5px #888888;
+}
+
+.left_col{
+    background-image: url('/images/hexbg-min copy.png');
+    background-size: cover;
+    
+}
